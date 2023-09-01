@@ -1,0 +1,14 @@
+C:\Sebas\Repasos\Practica\Modelo\bin\Debug\Modelo.dll.config
+C:\Sebas\Repasos\Practica\Modelo\bin\Debug\Modelo.dll
+C:\Sebas\Repasos\Practica\Modelo\bin\Debug\Modelo.pdb
+C:\Sebas\Repasos\Practica\Modelo\bin\Debug\Comun.dll
+C:\Sebas\Repasos\Practica\Modelo\bin\Debug\EntityFramework.dll
+C:\Sebas\Repasos\Practica\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Sebas\Repasos\Practica\Modelo\bin\Debug\Comun.pdb
+C:\Sebas\Repasos\Practica\Modelo\bin\Debug\EntityFramework.xml
+C:\Sebas\Repasos\Practica\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Sebas\Repasos\Practica\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Sebas\Repasos\Practica\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Sebas\Repasos\Practica\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+C:\Sebas\Repasos\Practica\Modelo\obj\Debug\Modelo.dll
+C:\Sebas\Repasos\Practica\Modelo\obj\Debug\Modelo.pdb

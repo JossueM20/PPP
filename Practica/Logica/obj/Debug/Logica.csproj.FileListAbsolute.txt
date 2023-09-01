@@ -1,0 +1,17 @@
+C:\Sebas\Repasos\Practica\Logica\bin\Debug\Logica.dll
+C:\Sebas\Repasos\Practica\Logica\bin\Debug\Logica.pdb
+C:\Sebas\Repasos\Practica\Logica\bin\Debug\AccesoDatos.dll
+C:\Sebas\Repasos\Practica\Logica\bin\Debug\Comun.dll
+C:\Sebas\Repasos\Practica\Logica\bin\Debug\Modelo.dll
+C:\Sebas\Repasos\Practica\Logica\bin\Debug\EntityFramework.dll
+C:\Sebas\Repasos\Practica\Logica\bin\Debug\AccesoDatos.pdb
+C:\Sebas\Repasos\Practica\Logica\bin\Debug\AccesoDatos.dll.config
+C:\Sebas\Repasos\Practica\Logica\bin\Debug\Comun.pdb
+C:\Sebas\Repasos\Practica\Logica\bin\Debug\Modelo.pdb
+C:\Sebas\Repasos\Practica\Logica\bin\Debug\Modelo.dll.config
+C:\Sebas\Repasos\Practica\Logica\bin\Debug\EntityFramework.xml
+C:\Sebas\Repasos\Practica\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Sebas\Repasos\Practica\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Sebas\Repasos\Practica\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Sebas\Repasos\Practica\Logica\obj\Debug\Logica.dll
+C:\Sebas\Repasos\Practica\Logica\obj\Debug\Logica.pdb

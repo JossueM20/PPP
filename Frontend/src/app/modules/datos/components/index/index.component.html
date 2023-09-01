@@ -1,0 +1,89 @@
+<mat-toolbar>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-6">
+                <button (click)="crearDialog()" mat-raised-button  color="primary" class="my-3">
+                    <mat-icon >add_circle_outline</mat-icon>
+                    Crear
+                </button>
+            </div>
+            <div class="col-6">
+                <div class="my-1">
+                    <mat-form-field appearance="fill">
+                        <mat-label>Buscar</mat-label>
+                        <input [(ngModel)] = "textoBusqueda" name="textoBusqueda"  (keyup.enter)="LeerTodo()" matInput>
+                        <mat-icon matSuffix>search</mat-icon>
+                    </mat-form-field>
+                </div>
+            </div>
+        </div>
+    </div>
+</mat-toolbar>
+
+<div class="container-fluid my-3">
+    <div class="row">
+        <div class="col">
+            <div class="mat-elevation-z8">
+                <table mat-table [dataSource]="dataSource">
+                    <!-- Position Column -->
+                    <ng-container matColumnDef="cedula">
+                      <th mat-header-cell *matHeaderCellDef>Cedula</th>
+                      <td mat-cell *matCellDef="let element"> {{element.cedula}} </td>
+                    </ng-container>
+                  
+                    <!-- Name Column -->
+                    <ng-container matColumnDef="nombre">
+                      <th mat-header-cell *matHeaderCellDef> Nombre </th>
+                      <td mat-cell *matCellDef="let element"> {{element.nombre}} </td>
+                    </ng-container>
+                  
+                    <!-- Weight Column -->
+                    <ng-container matColumnDef="apellido">
+                      <th mat-header-cell *matHeaderCellDef> Apellido </th>
+                      <td mat-cell *matCellDef="let element"> {{element.apellido}} </td>
+                    </ng-container>
+                  
+                    <!-- Symbol Column -->
+                    <ng-container matColumnDef="email">
+                      <th mat-header-cell *matHeaderCellDef> Correo </th>
+                      <td mat-cell *matCellDef="let element"> {{element.email}} </td>
+                    </ng-container>
+                  
+                    <ng-container matColumnDef="accion">
+                        <th mat-header-cell *matHeaderCellDef> Accion </th>
+                        <td mat-cell *matCellDef="let element">
+                            <div class="example-button-container">
+                                <button (click)="Eliminar(element.id, $event)" matTootip="Eliminar elemento" mat-icon-button color="warn">
+                                    <mat-icon>delete</mat-icon>
+                                </button>
+                            </div>
+                        </td>
+                    </ng-container>
+
+                    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+                    <tr mat-row *matRowDef="let row; columns: displayedColumns;" (click)="editarDialog(row)" class="fila-resaltada"></tr>
+
+                    <tr class="mat-row" *matNoDataRow="">
+                        <td class="mat-cell" [attr.colspan]="displayedColumns.length">
+                            <div class="mensaje-no-existen-datos">
+                                <mat-icon class="mx-3">error</mat-icon> No existen datos para mostrar
+                            </div>
+                        </td>
+                    </tr>
+
+                  </table>
+
+                  <mat-paginator #paginator
+                    (page)="cambiarPagina($event)"
+                    [length]="cantidadTotal"
+                    [pageSize]="cantidadPorPagina"
+                    [showFirstLastButtons]="true"
+                    [pageSizeOptions]="opcionesDePaginado"
+                    [pageIndex]="numeroDePagina"
+                    aria-label="Select page">
+                  </mat-paginator>
+                  
+            </div>
+        </div>
+    </div>
+</div>

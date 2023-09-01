@@ -1,0 +1,87 @@
+C:\Sebas\Repasos\Practica\Web API\bin\Web API.dll.config
+C:\Sebas\Repasos\Practica\Web API\bin\Web API.dll
+C:\Sebas\Repasos\Practica\Web API\bin\Web API.pdb
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\csc.exe
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\csc.exe.config
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\csc.rsp
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\csi.exe
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\csi.exe.config
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\csi.rsp
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.AppContext.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.Collections.Immutable.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.Console.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.IO.Compression.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.IO.FileSystem.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.Net.Http.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.Net.Sockets.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.ValueTuple.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.Xml.XPath.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\vbc.exe
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\vbc.exe.config
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\vbc.rsp
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\VBCSCompiler.exe
+C:\Sebas\Repasos\Practica\Web API\bin\roslyn\VBCSCompiler.exe.config
+C:\Sebas\Repasos\Practica\Web API\bin\Comun.dll
+C:\Sebas\Repasos\Practica\Web API\bin\EntityFramework.dll
+C:\Sebas\Repasos\Practica\Web API\bin\EntityFramework.SqlServer.dll
+C:\Sebas\Repasos\Practica\Web API\bin\Logica.dll
+C:\Sebas\Repasos\Practica\Web API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Sebas\Repasos\Practica\Web API\bin\Modelo.dll
+C:\Sebas\Repasos\Practica\Web API\bin\Newtonsoft.Json.dll
+C:\Sebas\Repasos\Practica\Web API\bin\System.Net.Http.Formatting.dll
+C:\Sebas\Repasos\Practica\Web API\bin\System.Web.Cors.dll
+C:\Sebas\Repasos\Practica\Web API\bin\System.Web.Http.Cors.dll
+C:\Sebas\Repasos\Practica\Web API\bin\System.Web.Http.dll
+C:\Sebas\Repasos\Practica\Web API\bin\System.Web.Http.WebHost.dll
+C:\Sebas\Repasos\Practica\Web API\bin\AccesoDatos.dll
+C:\Sebas\Repasos\Practica\Web API\bin\Comun.pdb
+C:\Sebas\Repasos\Practica\Web API\bin\Logica.pdb
+C:\Sebas\Repasos\Practica\Web API\bin\Modelo.pdb
+C:\Sebas\Repasos\Practica\Web API\bin\Modelo.dll.config
+C:\Sebas\Repasos\Practica\Web API\bin\EntityFramework.xml
+C:\Sebas\Repasos\Practica\Web API\bin\EntityFramework.SqlServer.xml
+C:\Sebas\Repasos\Practica\Web API\bin\System.Web.Http.Cors.xml
+C:\Sebas\Repasos\Practica\Web API\bin\Newtonsoft.Json.xml
+C:\Sebas\Repasos\Practica\Web API\bin\System.Net.Http.Formatting.xml
+C:\Sebas\Repasos\Practica\Web API\bin\System.Web.Http.xml
+C:\Sebas\Repasos\Practica\Web API\bin\System.Web.Http.WebHost.xml
+C:\Sebas\Repasos\Practica\Web API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Sebas\Repasos\Practica\Web API\bin\AccesoDatos.pdb
+C:\Sebas\Repasos\Practica\Web API\bin\AccesoDatos.dll.config
+C:\Sebas\Repasos\Practica\Web API\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Sebas\Repasos\Practica\Web API\bin\es\System.Web.Http.resources.dll
+C:\Sebas\Repasos\Practica\Web API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Sebas\Repasos\Practica\Web API\obj\Debug\Web API.csproj.AssemblyReference.cache
+C:\Sebas\Repasos\Practica\Web API\obj\Debug\Web API.csproj.CoreCompileInputs.cache
+C:\Sebas\Repasos\Practica\Web API\obj\Debug\Web API.csproj.CopyComplete
+C:\Sebas\Repasos\Practica\Web API\obj\Debug\Web API.dll
+C:\Sebas\Repasos\Practica\Web API\obj\Debug\Web API.pdb

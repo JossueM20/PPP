@@ -1,0 +1,51 @@
+/* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.fila-resaltada:hover {
+    background-color: #005b8f;
+    /* Cambia el color al que desees */
+    transition: background-color 0.3s ease-in-out;
+    /* Agrega una transición suave */
+    cursor: pointer;
+}
+
+.mat-toolbar .mat-mdc-form-field-subscript-wrapper.mat-mdc-form-field-bottom-align {
+    display: none;
+}
+
+.mat-mdc-form-field:not(.mat-mdc-paginator-page-size-select) {
+    width: 100%;
+}
+
+.mensaje-no-existen-datos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    line-height: 50px;
+    background-color: #F5F5F5;
+}
+
+.mensaje-no-existen-datos .mat-icon {
+    color: #F44336 !important;
+}
+
+.mat-row {
+    cursor: pointer;
+}
+
+.mat-row:hover {
+    background-color: red;
+    /* Cambia el color al que desees */
+    transition: background-color 0.3s ease-in-out;
+    /* Agrega una transición suave */
+}
