@@ -1,0 +1,77 @@
+Comandos Angular
+- ng new Fronteng
+- ng g m (modulos)
+- ng g c (componente)
+- ng add @angular/material (material)
+- npm i bootstrap (bootstrap)
+- npm i ngx-toastr (mensajes)
+
+https://codigoencasa.com/los-comandos-de-angular-mas-usados/
+
+
+Styles
+"node_modules/ngx-toastr/toastr.css"
+"node_modules/bootstrap/dist/css/bootstrap.css"
+Script
+"node_modules/bootstrap/dist/js/bootstrap.js"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Nuevo proyecto, 'aplicacion web APS.NET (.NET FRAMEWORK)'
+- Poryecto vacío, API WEB, quitar conf para https
+- Crear capas para la solución (Cómun: almacenara recursos comunes y globales; Modelo: modelo desde bases de datos, contexto, metadatos, validaciones; Acceso a datos: repositorios para sonsultas, inserciones, actualizaciones; Cliente rest: servicio rest para consumirlo, obetencion de numero de camas, salas; Logica dce negocio: implementar la logica de validacion de acceso y comunicacion de web api y resto de los proyectos)
+- Crear cada uno de los proyectos, 'biblioteca de clases(.NET FRAMEWORK)', colocar nombre, crear para todas las capas
+- Determinar las relaciones de cada proyecto, agregar referencias.
+- Solución, limpiar y remcopilar
+- Crear base de datos, instalar entity framework
+
+
+(Modelo) partial las enidades
+- Crear modelos a partir de las bases de datos (carga de base de datos)
+- Crear el contexto (Configuraciones para la concexion de la base de datos)
+- Crear los metadatos para todas las tablas (configurar los atributos)
+- Crear carpeta de validadores porsiacaso llegue a usarlos ()
+
+
+(Acceso a Datos) static, instalar acceso a datos
+DAL = DATA ACCESS LAYER - CAPA DE ACCESO A DATOS
+- Crear la DAL para cada entidad
+- Crear la conexion con el using
+- Crear una consulta con el query y mostrar los campos que deseo visualizar, contatenar el nombre cn los apellidos
+- Crear los metodos para leer, actualizar, crear y eliminar
+
+
+(Comun)
+- Crear MVR = VIEW MODEL RESOURCE, para los campos que quiero mostrar, todos estos campos se copian de modelos
+- Crear VMR PARA listado y paginado
+
+
+(Logica de negocio)
+BLL BUSINESS LOGIC LAYER = CAPA LOGICA DE NEGOCIO
+- Establecer para cada tabla medicos, paciente, ingreso, egreso
+
+
+(Web API)
+- Crear los controladores
+- Nuevo controlador, Web API en blanco
+- Configurar cors
+
+
+- SQL pass: jossue2002
+- CONSULTAR: entity framework✅, expresiones LAMBDA✅, LINQ✅, POO✅, .NET✅, MVC✅
